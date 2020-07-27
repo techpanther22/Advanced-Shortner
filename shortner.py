@@ -32,7 +32,7 @@ def Main():
 
 
 def Selector():
-    select = int(input("\n\033[1;33;40mAdvanced-Shortner >>>"))
+    select = int(input("\n\033[1;33;40mAdvanced-Shortner >>> "))
     if select == 1:
         EnlaceGoogle()
     elif select == 2:
