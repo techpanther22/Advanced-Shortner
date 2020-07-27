@@ -6,8 +6,8 @@ Python script to generate a hidden URL for social engineering.
 
 # How to Install
 - <code>git clone https://github.com/techpanther22/Advanced-Shortner</code>
-- <code>pip3 install -r requirements</code>
 - <code>cd Advanced-Shortner</code>
+- <code>pip3 install -r requirements</code>
 - <code>python3 shortner.py</code>
 
 # Follow me on 
