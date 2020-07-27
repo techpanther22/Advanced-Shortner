@@ -1,7 +1,7 @@
 
 # Advanced-Shortner
 Python script to generate a hidden URL for social engineering.
-</br>
+
 
 
 # How to Install
@@ -9,7 +9,7 @@ Python script to generate a hidden URL for social engineering.
 - <code>pip3 install -r requirements</code>
 - <code>cd Advanced-Shortner</code>
 - <code>python3 shortner.py</code>
-</br>
+
 # Follow me on 
 <a href="https://github.com/techpanther22"><img src="https://camo.githubusercontent.com/6db5a07d93819ee616798a5448d0b1c1746f6b45/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f6769746875622e706e67" alt="Github" width="50px"></a>
 <a href="https://www.instagram.com/techpanther22/"><img src="https://camo.githubusercontent.com/68ff38b86f01b428567dcc406116e23728245f4e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Instagram" width="50px"></a>
